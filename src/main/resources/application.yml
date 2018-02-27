@@ -1,0 +1,12 @@
+#spring:
+#  mvc:
+#    view:
+#      prefix: WEB-INF/views/
+#      suffix: .html
+
+#welcome:
+#  message: Hello 
+
+#logging:
+#  level:
+#    ROOT: DEBUG
